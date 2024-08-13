@@ -1,13 +1,7 @@
 - 👋 Hi, I’m @AhmedRz112
 - 👀 I’m interested in Web development and its new frameworks.
 - 🌱 I’m currently learning all Web frameworks and projects.
-- ![image](https://github.com/user-attachments/assets/a6ddb9f5-337a-42fd-890e-3241e5b8bef8)
-- ![image](https://github.com/user-attachments/assets/72a142c2-dbe2-463f-a8c1-7146900d4d08)
-- ![image](https://github.com/user-attachments/assets/e779aee5-b857-4168-9e6e-34128e3374a5)
-- ![image](https://github.com/user-attachments/assets/3d86d4a0-f17b-4614-aafb-030f4154ae06)
-- ![image](https://github.com/user-attachments/assets/52a1ac6c-8a9b-45e0-8bf1-07ead790a7b9)
-- ![image](https://github.com/user-attachments/assets/d79b0208-08aa-48d4-888b-f7565208ccac)
-- ![image](https://github.com/user-attachments/assets/b030b004-b762-4b85-9ab7-dfb0756caa09)
+![image](https://github.com/user-attachments/assets/a6ddb9f5-337a-42fd-890e-3241e5b8bef8) ![image](https://github.com/user-attachments/assets/72a142c2-dbe2-463f-a8c1-7146900d4d08) ![image](https://github.com/user-attachments/assets/e779aee5-b857-4168-9e6e-34128e3374a5) ![image](https://github.com/user-attachments/assets/3d86d4a0-f17b-4614-aafb-030f4154ae06) ![image](https://github.com/user-attachments/assets/52a1ac6c-8a9b-45e0-8bf1-07ead790a7b9) ![image](https://github.com/user-attachments/assets/d79b0208-08aa-48d4-888b-f7565208ccac) ![image](https://github.com/user-attachments/assets/b030b004-b762-4b85-9ab7-dfb0756caa09)
 
 
 
