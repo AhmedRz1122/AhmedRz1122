@@ -15,9 +15,9 @@
 - ⚡ Fun fact: ...
 ![image](https://github.com/user-attachments/assets/70c10e3f-fe2a-4c28-9a04-d41b07ed2f18)
 -All the present languages in which I am currently working on:
-![image](https://github.com/user-attachments/assets/761631c3-8f52-47bf-b35a-87d6f685ad46)
-![image](https://github.com/user-attachments/assets/eba3f044-23c9-4b66-91e7-ca3e26daea5d)
-![image](https://github.com/user-attachments/assets/fbf59aa7-df94-40c0-b81f-730dd38c308e)
+<img src="https://github.com/user-attachments/assets/761631c3-8f52-47bf-b35a-87d6f685ad46" width="50" height="50" />  
+<img src="https://github.com/user-attachments/assets/eba3f044-23c9-4b66-91e7-ca3e26daea5d" width="50" height="50" />  
+<img src="https://github.com/user-attachments/assets/fbf59aa7-df94-40c0-b81f-730dd38c308e" width="50" height="50" />
 
 
 
