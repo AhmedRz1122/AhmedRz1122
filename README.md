@@ -1,21 +1,50 @@
-![hello-welcome](https://github.com/user-attachments/assets/76f4231c-8de2-486e-a12e-116641c0df17)
+# Hi there, I am Ahmed Raza 👋
 
+I'm an enthusiastic **Techie** and **Web Developer** who loves building dynamic and user-friendly web apps.
 
+---
 
-- 👋 Hi, I’m Ahmed Raza
-- 👀 I’m interested in Web development and its new frameworks for building dynamic and user-friendly web apps.
-- 🌱 I’m currently learning all Web frameworks and projects.
-<img src="https://github.com/user-attachments/assets/a6ddb9f5-337a-42fd-890e-3241e5b8bef8" width="50" height="50" />  <img src="https://github.com/user-attachments/assets/72a142c2-dbe2-463f-a8c1-7146900d4d08" width="50" height="50" />  <img src="https://github.com/user-attachments/assets/e779aee5-b857-4168-9e6e-34128e3374a5" width="50" height="50" />  <img src="https://github.com/user-attachments/assets/3d86d4a0-f17b-4614-aafb-030f4154ae06" width="50" height="50" />  <img src="https://github.com/user-attachments/assets/52a1ac6c-8a9b-45e0-8bf1-07ead790a7b9" width="50" height="50" />  <img src="https://github.com/user-attachments/assets/d79b0208-08aa-48d4-888b-f7565208ccac" width="50" height="50" />  <img src="https://github.com/user-attachments/assets/b030b004-b762-4b85-9ab7-dfb0756caa09" width="50" height="50" />
+## 💻 My Skills
 
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### **Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
--🧠 All the present languages in which I am currently working on 👓:
-<img src="https://github.com/user-attachments/assets/761631c3-8f52-47bf-b35a-87d6f685ad46" width="50" height="50" />  <img src="https://github.com/user-attachments/assets/eba3f044-23c9-4b66-91e7-ca3e26daea5d" width="50" height="50" />  <img src="https://github.com/user-attachments/assets/fbf59aa7-df94-40c0-b81f-730dd38c308e" width="50" height="50" />
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### **Designing and Photo Editing**
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
+---
 
+## 🌱 Currently Learning
+- Exploring new **Web Frameworks**
+- Building innovative **Web Projects**
 
-<!---
-AhmedRz1122/AhmedRz1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a6ddb9f5-337a-42fd-890e-3241e5b8bef8" width="100" height="100" />
+  <img src="https://github.com/user-attachments/assets/72a142c2-dbe2-463f-a8c1-7146900d4d08" width="100" height="100" />
+  <img src="https://github.com/user-attachments/assets/e779aee5-b857-4168-9e6e-34128e3374a5" width="100" height="100" />
+  <img src="https://github.com/user-attachments/assets/3d86d4a0-f17b-4614-aafb-030f4154ae06" width="100" height="100" />
+  <img src="https://github.com/user-attachments/assets/52a1ac6c-8a9b-45e0-8bf1-07ead790a7b9" width="100" height="100" />
+</div>
+
+---
+
+## ✨ Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-AhmedRz1122-181717?style=for-the-badge&logo=github)](https://github.com/AhmedRz1122)
