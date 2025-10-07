@@ -1,6 +1,6 @@
 # Hi there, I am Ahmed Raza 👋
 
-I'm an enthusiastic **Techie** and **Web Developer** who loves building dynamic and user-friendly web apps.
+I'm an enthusiastic tech enthusiast and software developer who loves building dynamic and user-friendly applications.
 
 ---
 
