@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Raza! 👋
 
-**A passionate Full Stack Developer from Pakistan**
+**A passionate Computer Scientist trying to do things different.**
 
 ---
 
@@ -56,13 +56,13 @@
 
 <div align="center">
   
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedraza&show_icons=true&theme=radical)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedRz1122&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRz1122&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedRz1122&theme=radical)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ahmedraza&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AhmedRz1122&theme=radical)
 
 </div>
 
@@ -102,8 +102,8 @@
   
 ### **Ahmed Raza**
   
-![Ahmed Raza](![Ahmed](https://github.com/user-attachments/assets/22b82fc5-54c5-4fe4-a56a-2e0f2fc733c6)
-)
+![Ahmed](https://github.com/user-attachments/assets/077393c0-128f-43bd-a10d-38a2236dc71e)
+
 
 *Collaborator and fellow developer*
 
@@ -112,7 +112,7 @@
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ahmedraza&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedraza" /> 
+  <img src="https://komarev.com/ghpvc/?username=AhmedRz1122&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedRz1122" /> 
 </p>
 
 ---
