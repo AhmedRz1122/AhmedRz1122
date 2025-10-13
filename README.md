@@ -1,48 +1,124 @@
-# Hi there, I am Ahmed Raza 👋
+# Hi there, I'm Ahmed Raza! 👋
 
-I'm an enthusiastic tech enthusiast and software developer who loves building dynamic and user-friendly applications.
-
----
-
-## 💻 My Skills
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Frameworks**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
+**A passionate Full Stack Developer from Pakistan**
 
 ---
 
-## 🌱 Currently Learning
-- Exploring new **Web Frameworks**
-- Building innovative **Web Projects**
-
----
+## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a6ddb9f5-337a-42fd-890e-3241e5b8bef8" width="100" height="100" />
-  <img src="https://github.com/user-attachments/assets/72a142c2-dbe2-463f-a8c1-7146900d4d08" width="100" height="100" />
-  <img src="https://github.com/user-attachments/assets/e779aee5-b857-4168-9e6e-34128e3374a5" width="100" height="100" />
-  <img src="https://github.com/user-attachments/assets/3d86d4a0-f17b-4614-aafb-030f4154ae06" width="100" height="100" />
-  <img src="https://github.com/user-attachments/assets/52a1ac6c-8a9b-45e0-8bf1-07ead790a7b9" width="100" height="100" />
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Mobile & Cross-Platform
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Design & Creative
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+### Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 </div>
 
 ---
 
-## ✨ Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-AhmedRz1122-181717?style=for-the-badge&logo=github)](https://github.com/AhmedRz1122)
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedraza&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza&theme=radical)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ahmedraza&theme=radical)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on **Full Stack Development projects**
+- 🌱 I'm constantly learning **new technologies and frameworks**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **Web Development, Mobile Apps, or any tech-related stuff**
+- 📫 How to reach me: **Check social links below**
+- ⚡ Fun fact: **I love solving complex problems and building innovative solutions**
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <!-- Add your social media links here -->
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://portfolio-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 🎨 Special Mention
+
+<div align="center">
+  
+### **Ahmed Raza**
+  
+![Ahmed Raza](![Ahmed](https://github.com/user-attachments/assets/22b82fc5-54c5-4fe4-a56a-2e0f2fc733c6)
+)
+
+*Collaborator and fellow developer*
+
+</div>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ahmedraza&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedraza" /> 
+</p>
+
+---
+
+<div align="center">
+  
+### "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+</div>
