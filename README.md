@@ -1,6 +1,10 @@
 # Hi there, I'm Ahmed Raza! 👋
+<div align="center">
+  
+![Ahmed](https://github.com/user-attachments/assets/077393c0-128f-43bd-a10d-38a2236dc71e)
 
-**A passionate Computer Scientist trying to do things different.**
+</div>
+**A passionate Computer Scientist trying to do things differently.**
 
 ---
 
@@ -96,20 +100,11 @@
 
 ---
 
-## 🎨 Special Mention
 
-<div align="center">
   
-### **Ahmed Raza**
-  
-![Ahmed](https://github.com/user-attachments/assets/077393c0-128f-43bd-a10d-38a2236dc71e)
 
 
-*Collaborator and fellow developer*
 
-</div>
-
----
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AhmedRz1122&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedRz1122" /> 
